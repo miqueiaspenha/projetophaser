@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32">
+  <image source="tileset.png" width="224" height="96"/>
+ </tileset>
+ <layer name="cenario" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztl0EKgzAQAFcpbaXY9v+vrTnIJtKkm22COczAHIR4ybAuTiIyby4nCspdzm1Bj5SaHtdIevShpscaeezzj6DQYyxem2+jcYvwTI/25O5orXA/HzrdpDxX3wTF06N05vnjXXqUmSS9m9lo7m4tPS4HQQn7PN4Lnt3OfLRj71H7z0CPPnj/z+nRhxY9HkZzewSU1vPhERR6jIW3h/UbZREUeowFPcbC06NlC3qkMB9j8QHrvBm9
+  </data>
+ </layer>
+</map>
